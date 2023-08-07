@@ -1,0 +1,307 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	margin-left: 80px;
+}
+.main{
+	background-color: lightskyblue;
+	height: 600px;
+	width: 1000px;
+}
+.main img{
+	padding-left: 80px;
+	padding-top: 30px;
+	height: 350px;
+	width: 300px;
+}
+.one{
+	position: absolute;
+	top: 100px;
+	left: 500px;
+	height: 600px;
+	width: 800px;
+}
+.one p{
+
+	font-size: 10px;
+}
+.one h2{
+	color: blue;
+}
+.pe{
+	float: left;
+}
+.two{
+	height: 200px;
+	width: 800px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	padding-right: 30px;
+	background-color: blue;
+
+}
+.two img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	padding-top: 5px;
+	padding-left: 1px;
+	float: left;
+}
+.text{
+	font-size: 20px;
+	padding-left: 100px;
+	padding-top: 50px;
+	float: left;
+}
+.im1{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	padding-left: 50px;
+	padding-top: 20px;
+	float: left;
+	display: flex;
+	margin-right: 20px;
+	align-items: left;
+}
+.main1{
+	background-color: white;
+	height: 600px;
+	width: 1000px;
+
+}
+.main1 h1{
+	padding-top: 30px;
+	color: skyblue;
+	text-align: center;
+}
+.main1 p{
+	text-align: center;
+}
+.three h3{
+	color: white;
+}
+.three p{
+	color: white;
+}
+.h img{
+	height: 150px;
+	width: 150px;
+	padding-top: 30px;
+	float: left;
+}
+.hi p{
+	margin-left: 10px;
+	padding-top: 30px;
+	float: left;
+
+}
+.h1 h6{
+	text-decoration: underline;
+}
+.hi1 img{
+	height: 150px;
+	width: 150px;
+	padding-top: 30px;
+	float: left;
+}
+.hi2 p{
+	margin-left: 1px;
+	padding-left: 10px;
+	padding-top: 30px;
+	float: left;
+
+}
+.hi3 img{
+	height: 150px;
+	width: 150px;
+	margin: 50px;
+	margin-right: 680px;
+	float: right;
+	
+}
+.hi4 p{
+	padding-bottom: 80px: 
+	padding-left:100px;
+	float: left;
+
+}
+.i1{
+	text-transform: justify;
+}
+.t1{
+	height: 200px;
+	width: 1000px;
+	background-color: lightgrey;
+}
+.t2{
+	height: 400px;
+	width: 1000px;
+	background-color: skyblue;
+}
+.t1 img{
+	height: 300px;
+	width: 800px;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+.t2 h1{
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+}
+.t3 {
+	height: 200px;
+	width: 1000px;
+	display: flex;
+}
+.t4 {
+	padding-left: 20px;
+	text-align: center;
+	padding-top: 50px;
+	padding-right: 250px;
+	color: white;
+	
+
+}
+.main2 img{
+	height: 100px;
+	width: 100px;
+}
+.paragraph-container1 {
+    display: flex;
+    gap: 10px;
+    background-color: white;
+        }
+.paragraph1 {
+            flex: 1;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+.paragraph1 h2{
+	color: blue;
+	align-items: center;
+	padding-right: 120px;
+}
+.abc{
+	height: 200px;
+	width: 800px;
+	
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	border: 1px solid blue;
+}
+.a{
+	height: 200px;
+	width: 266px;
+	float: left;
+	background-color: red;
+
+}
+.b{
+	height: 200px;
+	width: 266px;
+	float: left;
+	background-color: blue;
+}
+.c{
+	height: 200px;
+	width: 266px;
+	float: left;
+	background-color: red;
+}
+.main2{
+	height: 600px;
+	width: 1000px;
+	padding-left: 100px;
+
+}
+.main2 h2{
+	top: 30px;
+	left: 50px;
+	text-align: left;
+}
+.main2 span{
+	text-decoration: underline;
+	text-align: left;
+}
+.main2 h1{
+	text-align: left;
+	color: black
+}
+.main3{
+	display: flex;
+	height: 300px;
+	margin-right: 40px;
+	background-color: skyblue;
+}
+.paragraph {
+            flex: 1;
+            padding-top: 10px;
+            box-sizing: border-box;
+            background-color: skyblue;
+        }
+.but{
+	text-align: center;
+	margin-left: 500px;
+	background-color: skyblue;
+}
+.live{
+	color: blue;
+
+}
+.main4{
+	display: flex;
+	height: 400px;
+	background-color: skyblue;
+	justify-content: center;
+}
+.main4 div{
+	align-items: center;
+	margin: 20px;
+	width: 100%
+}
+.maha img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	align-items: center;
+	background-color: lightgrey;
+}
+.maha1 img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	align-items: center;
+	background-color: lightgrey;
+
+}
+.maha2 img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	align-items: center;
+	background-color: lightgrey;
+
+}
+.main5{
+	height: 400px;
+	display: flex;
+	background-color: skyblue;
+	justify-content: center;
+
+}
+.main5{
+	height: 500px;
+	display: flex;
+}
+.main5 h2{
+	text-align: center;
+}
+.main5 p{
+	text-align: center;
+
+}
